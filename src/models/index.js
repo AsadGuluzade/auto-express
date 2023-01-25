@@ -1,8 +1,8 @@
 const User = require('./user')
 
-const armagan = new User('armagan', 20)
+const asad = new User('armagan', 20)
 const steve = new User('steve', 22)
 
-const users = [armagan, steve]
+const users = [asad, steve]
 
 module.exports = { users }
