@@ -14,5 +14,5 @@ const car2 = new Car('Ford', 'Mustang', 2021, 45000, 'photo2.url')
 const cars = [car, car1, car2]
 
 /* class User{
-  constructor()
+  constructor(name, age, )
 } */
